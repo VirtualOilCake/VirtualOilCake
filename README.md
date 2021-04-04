@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me a question: [Open a issue here](https://github.com/TheInterestingSoul/TheInterestingSoul/issues/new).
+- 💬 Ask me a question: [Open an issue here](https://github.com/TheInterestingSoul/TheInterestingSoul/issues/new).
 - 📫 How to reach me: [Bilibili](https://space.bilibili.com/10706866) | [Zhihu](https://www.zhihu.com/people/wang-luo-you-xia-32) |[YouTube](https://www.youtube.com/channel/UCZzsp1cp3feN83z72XVrCCg)
-- 😄 Pronouns: He / him / his
+- 😄 Pronouns: he / him / his
 - ⚡ Fun fact: [Wiki](https://zh.moegirl.org.cn/User:%E7%BD%91%E7%BB%9C%E6%B2%B9%E4%BE%A0)
 
 ![](https://github-readme-stats.vercel.app/api?username=manoil)
