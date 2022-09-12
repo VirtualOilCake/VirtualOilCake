@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me a question: [Open an issue here](https://github.com/manoil/net-oil-man/issues/new).
-- 📫 How to reach me: [Bilibili](https://space.bilibili.com/10706866) | [Zhihu](https://www.zhihu.com/people/wang-luo-you-xia-32) | [YouTube](https://www.youtube.com/channel/UCZzsp1cp3feN83z72XVrCCg)
+- 📫 How to reach me: [Twitter](https://twitter.com/virtualoilcake) | [Bilibili](https://space.bilibili.com/10706866) | [Zhihu](https://www.zhihu.com/people/wang-luo-you-xia-32) | [YouTube](https://www.youtube.com/channel/UCZzsp1cp3feN83z72XVrCCg) | 
 - 😄 Pronouns: he / him / his
-- ⚡ Fun fact: [about me](https://youtu.be/dQw4w9WgXcQ)
+- ⚡ Fun fact: [About me](https://youtu.be/dQw4w9WgXcQ)
 
 ![](https://github-readme-stats.vercel.app/api?username=VirtualOilCake)
