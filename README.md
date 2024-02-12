@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me a question: [Open an issue here](https://github.com/manoil/net-oil-man/issues/new).
+- 💬 Ask me a question: [Open an issue here](https://github.com/VirtualOilCake/VirtualOilCake/issues/new).
 - 📫 How to reach me: [Twitter](https://twitter.com/virtualoilcake) | [YouTube](https://www.youtube.com/channel/UCCs266kDJJ3OMk-WcqFt6Ng)
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: [About me](https://youtu.be/dQw4w9WgXcQ)
